@@ -30,6 +30,6 @@
   
   # Questions
   * If you have any questions about the repo, here is my repo 
-  (https://github.com/aiyasiddig/ReadMe Generator/issues/new) . 
+  (https://github.com/aiyasiddig/goodReadMe) . 
   * You can find  my work at [aiyasiddig](https://github.com/aiyasiddig).
   
