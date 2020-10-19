@@ -15,7 +15,7 @@
 
   # Installation
   To Install the dependencies you should run the following command:
-  <pre><code> N/A</code></pre>
+  <pre><code>npm install</code></pre>
 
   # Usage
   undefined
@@ -26,7 +26,7 @@
 
   # Tests
   To run tests you should run the following command:
-  <pre><code>N/A</code></pre>
+  <pre><code>npm test</code></pre>
   
   # Questions
   * If you have any questions about the repo, here is my repo 
