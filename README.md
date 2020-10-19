@@ -1,43 +1,35 @@
-# good-readme-generator
+# ReadMe Generator
 
-# Description:
-When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for.
+  ![github license](This project has no license)
 
-# UserStory:
-AS A developer
-I WANT a README generator
-SO THAT can quickly create a professional README for a new project.
+  # Description 
+   This project is a node application that runs through the terminal. It is a readMe generator made to simplify the process of creating a ReadMe on github
 
-# Acceptance Criteria:
-WHEN: I am prompted for information about my application repository
-THEN: A quality, professional README.md is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+  # Table of Contents 
 
-# Demo
-![alt text](https://github.com/PratyushaRaghupatruni/good-readme-generator/blob/master/Develop/images/readmegenerator.gif)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Licensce](#license)
+  * [Tests](#test)
+  * [Questions](#Questions)
 
-# Technology:
-* Node.js:
-Node.js is an open-source, cross-platform, JavaScript runtime environment (Framework) that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
+  # Installation
+  To Install the dependencies you should rin the following command
+  <pre><code> N/A</code></pre>
 
-* NPM Package:
-Inquirer.js strives to be an easily embeddable and beautiful command line interface for Node.js.
-Inquirer.js should ease the process of
-   * providing error feedback
-   * asking questions
-   * parsing input
-   * validating answers
+  # Usage
+  N/A
 
-# Installation:
-* Navigate to the 'Develop' folder. To install necessary dependencies, run the following command :
-  <pre><code> npm i</code></pre>
-* The application will be invoked with the following command:
-  node index.js.
+  # License
+  The project licensed under 
+  None
 
-# Usage:
-* Run Commands listed in Installation
-* Running node index.js command will prompt user the questions about project repository, and with User's Answers 'README.md' file will be generated.
-
-# Features:
-* Uses Node.js to build application which generates README.md file dynamically with the user's input .
-* Used Npm package 'Inquirer' to generate the Questions to the User.
-
+  # Tests
+  you should run the following command 
+  <pre><code>N/A</code></pre>
+  
+  # Questions
+  * If you have any questions about the repo, here is my repo 
+  (https://github.com/aiyasiddig/ReadMe Generator/issues/new) . 
+  * You can find  my work at [aiyasiddig](https://github.com/aiyasiddig).
+  
