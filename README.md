@@ -29,7 +29,7 @@
   <pre><code>npm test</code></pre>
   
   # Questions
-  * If you have any questions about the repo, here is my repo 
-  (https://github.com/aiyasiddig/ReadMe Generator/issues/new) . 
+  * Here is my repo: 
+  (https://github.com/aiyasiddig/ReadMe ) . 
   * You can find my other projects at [aiyasiddig](https://github.com/aiyasiddig).
   
