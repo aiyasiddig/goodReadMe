@@ -1,4 +1,3 @@
-// function to generate markdown for README
 function generateMarkdown(data) {
   var license = data.license;
   var licenseName="";
@@ -46,7 +45,7 @@ function generateMarkdown(data) {
   # Questions
   * If you have any questions about the repo, here is my repo 
   (https://github.com/${data.github}/${data.title}/issues/new) . 
-  * You can find  my work at [${data.github}](https://github.com/${data.github}).
+  * You can find my other projects at [${data.github}](https://github.com/${data.github}).
   `;
 }
 
