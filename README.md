@@ -1,9 +1,9 @@
-# ss
+# Good ReadMe Generator
 
-  ![github license](https://img.shields.io/badge/license-Apache--2.0-blue)
+  ![github license](https://img.shields.io/badge/license-GPL%203.0-blue)
 
   # Description 
-   s
+   This project is a readME generator, which generates a github ReadMe file using the User's input
 
   # Table of Contents 
 
@@ -14,22 +14,22 @@
   * [Questions](#Questions)
 
   # Installation
-  To Install the dependencies you should rin the following command
-  <pre><code> s</code></pre>
+  To Install the dependencies you should run the following command:
+  <pre><code> N/A</code></pre>
 
   # Usage
   undefined
 
   # License
-  The project licensed under 
-  Apache License 2.0
+  This project is licensed under 
+  GNU General Public License 3.0
 
   # Tests
-  you should run the following command 
-  <pre><code>s</code></pre>
+  To run tests you should run the following command:
+  <pre><code>N/A</code></pre>
   
   # Questions
   * If you have any questions about the repo, here is my repo 
-  (https://github.com/ss/ss/issues/new) . 
-  * You can find my other projects at [ss](https://github.com/ss).
+  (https://github.com/aiyasiddig/Good ReadMe Generator/issues/new) . 
+  * You can find my other projects at [aiyasiddig](https://github.com/aiyasiddig).
   

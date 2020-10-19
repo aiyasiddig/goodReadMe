@@ -28,18 +28,18 @@ function generateMarkdown(data) {
   * [Questions](#Questions)
 
   # Installation
-  To Install the dependencies you should rin the following command
+  To Install the dependencies you should run the following command:
   <pre><code> ${data.installation}</code></pre>
 
   # Usage
   ${data.usage}
 
   # License
-  The project licensed under 
+  This project is licensed under 
   ${license}
 
   # Tests
-  you should run the following command 
+  To run tests you should run the following command:
   <pre><code>${data.test}</code></pre>
   
   # Questions
