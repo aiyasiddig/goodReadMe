@@ -1,9 +1,9 @@
-# Good ReadMe Generator
+# ReadMe Generator
 
   ![github license](https://img.shields.io/badge/license-GPL%203.0-blue)
 
   # Description 
-   This project is a readME generator, which generates a github ReadMe file using the User's input
+   This project is a ReadMe generator which generates a functional ReadMe using the User's input.
 
   # Table of Contents 
 
@@ -30,6 +30,6 @@
   
   # Questions
   * If you have any questions about the repo, here is my repo 
-  (https://github.com/aiyasiddig/Good ReadMe Generator/issues/new) . 
+  (https://github.com/aiyasiddig/ReadMe Generator/issues/new) . 
   * You can find my other projects at [aiyasiddig](https://github.com/aiyasiddig).
   
