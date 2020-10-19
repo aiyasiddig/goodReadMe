@@ -3,7 +3,7 @@
   ![github license](https://img.shields.io/badge/license-GPL%203.0-blue)
 
   # Description 
-   This project is a ReadMe generator which generates a functional ReadMe using the User's input.
+   This project is a ReadMe generator which generates a functional ReadMe using the User's input. It is a command line application and features a table of contents.
 
   # Table of Contents 
 
